@@ -23,11 +23,17 @@ Objects of Image Detection using Python, YOLO and OpenCV. This is the project wh
 	<tr align="center">
 		<td><img src="https://github.com/zainashrafofficial/Image_Objects_Detector/blob/main/detect%20Image%201.jpg"></td>		
 	</tr>
+	  <tr align="center">
+		<th><strong>Office Room Image</strong></th>
+	</tr>
+	<tr align="center">
+		<td style="width: 100%;"><img src="https://github.com/zainashrafofficial/Image_Objects_Detector/blob/main/Brother%20Image%20objects%20Detected.png"></td>
+	</tr>
 	<tr align="center">
 		<th><strong>Real Cars Detection</strong></th>
 	</tr>
 	<tr align="center">
-		<td><img src="https://github.com/zainashrafofficial/Image_Objects_Detector/blob/main/detect%20Image%202.jpg"></td>
+		<td><img src="https://github.com/zainashrafofficial/Image_Objects_Detector/blob/main/detect%20image%202.jpg"></td>
 	</tr>
 	<tr align="center">
 		<th><strong>Real Room Detection</strong></th>
@@ -37,9 +43,6 @@ Objects of Image Detection using Python, YOLO and OpenCV. This is the project wh
 	</tr>
 	<tr align="center">
 		<th><strong>Office Room Detection</strong></th>
-	</tr>
-	<tr align="center">
-		<td style="width: 100%;"><img src="https://github.com/zainashrafofficial/Image_Objects_Detector/blob/main/Brother.PNG"></td>
 	</tr>
 </tbody>
 </table>
