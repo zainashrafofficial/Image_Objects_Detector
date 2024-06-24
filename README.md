@@ -39,10 +39,7 @@ Objects of Image Detection using Python, YOLO and OpenCV. This is the project wh
 		<th><strong>Real Room Detection</strong></th>
 	</tr>
 	<tr align="center">
-		<td style="width: 100%;"><img src="https://github.com/zainashrafofficial/Image_Objects_Detector/blob/main/detect%20Image%203.jpg"></td>
-	</tr>
-	<tr align="center">
-		<th><strong>Office Room Detection</strong></th>
+		<td style="width: 100%;"><img src="https://github.com/zainashrafofficial/Image_Objects_Detector/blob/main/detect%20image%203.jpg"></td>
 	</tr>
 </tbody>
 </table>
