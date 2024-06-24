@@ -14,6 +14,36 @@ Objects of Image Detection using Python, YOLO and OpenCV. This is the project wh
   </li>
 </ul>
 
+
+<table>
+  <tbody>
+	<tr align="center">
+		<th><strong>Gaming Cars Detection</strong></th>
+	</tr>
+	<tr align="center">
+		<td><img src="https://github.com/zainashrafofficial/Image_Objects_Detector/blob/main/detect%20Image%201.jpg"></td>		
+	</tr>
+	<tr align="center">
+		<th><strong>Real Cars Detection</strong></th>
+	</tr>
+	<tr align="center">
+		<td><img src="https://github.com/zainashrafofficial/Image_Objects_Detector/blob/main/detect%20Image%202.jpg"></td>
+	</tr>
+	<tr align="center">
+		<th><strong>Real Room Detection</strong></th>
+	</tr>
+	<tr align="center">
+		<td style="width: 100%;"><img src="https://github.com/zainashrafofficial/Image_Objects_Detector/blob/main/detect%20Image%203.jpg"></td>
+	</tr>
+	<tr align="center">
+		<th><strong>Office Room Detection</strong></th>
+	</tr>
+	<tr align="center">
+		<td style="width: 100%;"><img src="https://github.com/zainashrafofficial/Image_Objects_Detector/blob/main/Brother.PNG"></td>
+	</tr>
+</tbody>
+</table>
+
 You can use pretrained models for image objects detection as a beginner, Pre-trained Models are the most common and beginner-friendly approach. You can use pre-trained models like YOLOv5, SSD (Single Shot MultiBox Detector), or Faster R-CNN with libraries like TensorFlow or PyTorch. These models are already trained on large datasets and can detect various objects.
 
 
